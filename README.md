@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)]
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Adriel</h1>
 <h3 align="center">An accounting student from Brazil learning programming</h3>
